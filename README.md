@@ -1,5 +1,6 @@
 # Trigger-to-check-duplicate-name-to-custom-object-in-Salesforce
-<b>w3web.net</b> is the place where you can learn about Blog, WordPress, Salesforce Lightning Component, Lightning Web Component (LWC), Visualforce, Technical of Computer Application, Salesforce Plugin, JavaScript, Jquery, CSS, Computer &amp; Accessories, Software Development, Configuration, Customization and much more...
+we are going to learn about How can we prevent duplicate name insert on custom object in Salesforce<br/><br/>
+<b>Real time scenarios:-</b> Write a trigger on custom object When a Object (childObjTrigger__c) is being created, if a record exists with the same EmployeeName (EmployeeName__c), the trigger should throw an error.<br/><br/>
 
 <a href="https://www.w3web.net/trigger-to-check-duplicate-name/" rel="nofollow">Go to more details about this article__ <b><i>www.w3web.net</i></b></a><br/><br/>
 

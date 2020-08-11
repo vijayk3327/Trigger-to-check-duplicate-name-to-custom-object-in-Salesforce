@@ -1,5 +1,5 @@
 # Trigger-to-check-duplicate-name-to-custom-object-in-Salesforce
-&lt;a href="https://www.w3web.net/">w3web.net&lt;/a> is the place where you can learn about Blog, WordPress, Salesforce Lightning Component, Lightning Web Component (LWC), Visualforce, Technical of Computer Application, Salesforce Plugin, JavaScript, Jquery, CSS, Computer &amp; Accessories, Software Development, Configuration, Customization and much more...
+<b>w3web.net</b> is the place where you can learn about Blog, WordPress, Salesforce Lightning Component, Lightning Web Component (LWC), Visualforce, Technical of Computer Application, Salesforce Plugin, JavaScript, Jquery, CSS, Computer &amp; Accessories, Software Development, Configuration, Customization and much more...
 
 <a href="https://www.w3web.net/trigger-to-check-duplicate-name/" rel="nofollow">Go to more details about this article__ <b><i>www.w3web.net</i></b></a><br/><br/>
 
